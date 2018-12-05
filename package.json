@@ -1,0 +1,24 @@
+{
+  "name": "@elegy7/koa-static-server",
+  "version": "1.0.1",
+  "description": "Fork from koa-static-server@0.1.8, fix 'options.index' in vain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "file",
+    "static",
+    "sendfile",
+    "directory",
+    "server",
+    "folder"
+  ],
+  "dependencies": {
+    "koa-send": "~1.3.0"
+  },
+  "author": "Elegy",
+  "license": "ISC"
+}
